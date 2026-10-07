@@ -1,0 +1,13 @@
+module
+LcarsPanel LcarsPanel.qml
+LcarsButton LcarsButton.qml
+StatusLight StatusLight.qml
+TelemetryPanel TelemetryPanel.qml
+GraphComponent GraphComponent.qml
+NetworkIndicator NetworkIndicator.qml
+BatteryIndicator BatteryIndicator.qml
+ApplicationLauncher ApplicationLauncher.qml
+AppsMenu AppsMenu.qml
+FileManager FileManager.qml
+AudioControls AudioControls.qml
+SystemSettings SystemSettings.qml
